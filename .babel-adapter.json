@@ -1,0 +1,4 @@
+{
+  "entryFiles":["src/index.js"],
+  "excludedModules":["react","react-dom","redux","react-redux","@reduxjs/toolkit"]
+}
